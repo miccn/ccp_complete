@@ -269,7 +269,7 @@ display: inline-block;
     }
 }
 
-/* Small desktop */
+
 @media (min-width: 1300px){
     .topics-container{
         display: flex;
