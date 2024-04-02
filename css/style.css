@@ -297,6 +297,9 @@ display: inline-block;
         border: 4px solid var(--mid-dark);
         margin: 0 auto;
     }
+    /* *:focus{
+        background-color: blue;
+    } */
     .card-gallery::-webkit-scrollbar{
         display: none;
     }
