@@ -94,6 +94,7 @@ a:visited{
     justify-items: center;
     row-gap: 10px;
     grid-template-columns: 1fr;
+    
 }
 
 .card{
